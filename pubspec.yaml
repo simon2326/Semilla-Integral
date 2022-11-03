@@ -1,0 +1,51 @@
+name: semilla_integral
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.1.1
+  cloud_firestore: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  assets:
+     - assets/login.png
+     - assets/envigado.png
+     - assets/laureles.png
+     - assets/llanog.png
+     - assets/sanc.png
+     - assets/poblado.png
+     - assets/canasta.png
+     - assets/estetica.png
+     - assets/eco.png
+     - assets/dushi.jpg
+     - assets/paleta.png
+     - assets/yogurt.jpg
+     - assets/huevo.jpg
+     - assets/logo.png
+
+
+  fonts:
+     - family: Khand
+       fonts:
+         - asset: fonts/Khand-Bold.ttf
+         - asset: fonts/Khand-Light.ttf
+           style: italic
+           weight: 700
+  uses-material-design: true

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290166713045",
+    "project_id": "semilla-integral",
+    "storage_bucket": "semilla-integral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290166713045:android:9b4f8c7d45f6b70e4a505c",
+        "android_client_info": {
+          "package_name": "com.example.semilla_integral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290166713045-pa2ml2c37l1a7nrnqslfcf31kuiev317.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semilla_integral",
+            "certificate_hash": "c5fafa1a5dde471d1d1bc5a3db22bafbb8671e39"
+          }
+        },
+        {
+          "client_id": "290166713045-ouinfk3lmt7qkp4fvg4mmdgt1dbp49d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlmjwhWMPr7ScaDEiNsgei40nY5ZAfolY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290166713045-ouinfk3lmt7qkp4fvg4mmdgt1dbp49d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
